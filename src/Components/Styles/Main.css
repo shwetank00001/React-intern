@@ -1,0 +1,41 @@
+.main{
+    background-color: #1b1b32;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 30px;
+}
+
+.div-text{
+    width: 550px;
+    font-size: larger;
+    font-weight: 300;
+}
+
+.div-button{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 45px;
+  }
+  
+  
+  .button{
+    height: 5%;
+    width: 60%;
+    background-color: #fec042;
+    font-size: larger;
+    padding: 6px;
+
+  
+  }
+
+.div-img{
+    width: 550px;
+}
+
+.caption{
+    color: rgb(255, 255, 255);
+    display: flex;
+    margin-left: 20px;
+  
+  }

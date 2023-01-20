@@ -1,0 +1,36 @@
+.nav{
+    background-color: #0a0a23;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .nav-search{
+    padding: 2px;
+    margin-left: 5px;
+    height: 50%;
+    background-color: #3b3b4f;
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 200%;
+  
+  }
+
+
+  .nav-button{
+    margin-right: 10px;
+
+  }
+
+  .nav-menu{
+  color: white;
+  background-color: #0a0a23;
+  border-style: solid;
+  border-color: whitesmoke;
+  margin: 4px;
+}
+
+.nav-signin{
+  background-color: #fec042;
+  border-style: solid;
+  border-color: orange;
+}

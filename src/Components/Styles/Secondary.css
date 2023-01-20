@@ -1,0 +1,21 @@
+.div-secondary{
+    color: whitesmoke;
+    background-color: #1b1b32;
+  }
+
+  .div-secondary > h2,h3,p,h4 {
+      
+    display: flex;
+    justify-content: center;
+  
+  }
+  
+  .div-box{   
+        width: max-content;
+        margin: auto;
+  }
+  
+  .div-box >h4{
+    border-style: solid;
+    padding: 15px;
+  }
